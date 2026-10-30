@@ -18,5 +18,7 @@ config.initial_cols = 120
 
 config.color_scheme = 'Catppuccin Mocha'
 
+config.window_decorations = "RESIZE"
+
 -- and finally, return the configuration to wezterm
 return config
